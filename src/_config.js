@@ -1,7 +1,7 @@
 //файл с константами
 
 export const app = {
-  title: 'Notes'
+  title: 'Template'
 }
 export const links = [
   {
