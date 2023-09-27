@@ -1,15 +1,15 @@
 //файл с константами
 
 export const app = {
-    title: "Notes"
-};
+  title: 'Notes'
+}
 export const links = [
-    {
-        title: "Главная",
-        url: "/",
-    },
-    {
-        title: "О сайте",
-        url: "/about",
-    },
-];
+  {
+    title: 'Главная',
+    url: '/'
+  },
+  {
+    title: 'О сайте',
+    url: '/about'
+  }
+]

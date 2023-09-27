@@ -18,15 +18,15 @@
 </template>
 
 <script>
-import { links } from "@/_config.js";
+import { links } from '@/_config.js'
 
 export default {
   data() {
     return {
-      links: links,
-    };
-  },
-};
+      links: links
+    }
+  }
+}
 </script>
 
 <style lang="scss">

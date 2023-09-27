@@ -18,16 +18,16 @@
 </template>
 
 <script>
-import { app, links } from "@/_config.js";
+import { app, links } from '@/_config.js'
 
 export default {
   data() {
     return {
       title: app.title,
-      links: links,
-    };
-  },
-};
+      links: links
+    }
+  }
+}
 </script>
 
 <style lang="scss"></style>
